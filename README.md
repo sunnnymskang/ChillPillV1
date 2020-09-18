@@ -1,4 +1,4 @@
-ChillPill(V1): Find antidepressants as unique as you are
+ChillPill(V1, 2018): Find antidepressants as unique as you are
 ==============================
 
  Antidepressants can be a complete life-saver to as many as 19 million Americans each year. However, they can come with 
@@ -45,7 +45,7 @@ and I'm in search for a pill that works. Once I type in my symptoms and click su
  jargon used in WebMD or google search. These keywords were then searched through the larger corpus of the subreddit 
  comment to gauge their prevalence.
 
- This app was created during my fellowship at Insight Datascience program. Creating the app within 3 weeks was no less 
+ This app was created during my fellowship at Insight Datascience program in 2018. Creating the app within 3 weeks was no less 
  than a daunting task however, was absolutely a gratifying experience. Having survived depression, I tried to answer 
  what I and my peers may find most useful in creating and designing the app. Having said that, this project has a lot of
   room to grow: The biggest challenge came from separating words describing symptoms from other thematic words. This 
