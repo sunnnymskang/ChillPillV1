@@ -67,6 +67,8 @@ Under Jupyernotebooks, you'll find notebooks for
     - Visualizing the frequency of the side effects 
 Under src, you'll find scripts of utility functions used across notebooks 
 
+Project Tree
+------------
 
     ├── LICENSE
     ├── Makefile           
