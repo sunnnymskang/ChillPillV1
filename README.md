@@ -3,7 +3,7 @@ ChillPill(V1): Find antidepressants as unique as you are
 
  Antidepressants can be a complete life-saver to as many as 19 million Americans each year. However, they can come with 
  side effects that patients may not be aware of when they begin their treatment. This is especially hard to navigate as 
- a first time patient, contributing to ~30% of them having to swtich between 2~3 different drugs until they find the one
+ a first time patient, contributing to about 30% of them having to swtich between 2~3 different drugs until they find the one
  that works for them. Existing platforms, such as Google or webMD are not good at capturing the prevalence of side 
  effects. For example, if I ask google about the side of Prozac, it'll tell me I may get insomnic, but how likely it is,
   is the question that I have as a patient. To tackle this problem, I created ChillPill, a web app that recommends 
