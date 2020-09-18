@@ -55,8 +55,7 @@ and I'm in search for a pill that works. Once I type in my symptoms and click su
   a sentence is telling a side effect or not.
 
 I've shut down the hosting for the webapp after the program but find out more in this presentation.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnCquSOvsO4ohdTlVoQzvcCmMqOEHrJLWuEtYgGF6sBHEPtmWecvbBwpbDF9Gcek4m0xNa0f6yf82S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnCquSOvsO4ohdTlVoQzvcCmMqOEHrJLWuEtYgGF6sBHEPtmWecvbBwpbDF9Gcek4m0xNa0f6yf82S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 Project Organization
 ------------
 Under Jupyernotebooks, you'll find notebooks for
