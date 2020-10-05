@@ -56,7 +56,7 @@ and I'm in search for a pill that works. Once I type in my symptoms and click su
 
 I've shut down the hosting for the webapp after the program but find out more in this presentation.
 ![firstpage](/image/firstpage.png)
-[link](https://docs.google.com/presentation/d/e/2PACX-1vRnCquSOvsO4ohdTlVoQzvcCmMqOEHrJLWuEtYgGF6sBHEPtmWecvbBwpbDF9Gcek4m0xNa0f6yf82S/embed?start=false&loop=false&delayms=3000")
+[link](https://docs.google.com/presentation/d/e/2PACX-1vRnCquSOvsO4ohdTlVoQzvcCmMqOEHrJLWuEtYgGF6sBHEPtmWecvbBwpbDF9Gcek4m0xNa0f6yf82S/embed?start=false&loop=false&delayms=3000)
 
 Project Organization
 ------------
